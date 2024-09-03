@@ -1,3 +1,3 @@
-This is a Laboratory Activity on Modules
-The topics covered in this activity are
-URL of my repository: https://github.com/KristaMRebuyon/LabActivity02
+- This is a Laboratory Activity on Modules 2 and 3. 
+- The topics covered in this activity are the basic html elements, such as doctype, html, head, title, body, and many more, and the basic elements in making html tables. 
+- URL of my repository: https://github.com/KristaMRebuyon/LabActivity02
